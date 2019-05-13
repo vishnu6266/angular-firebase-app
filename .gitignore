@@ -4,7 +4,6 @@
 /dist
 /tmp
 /out-tsc
-/public/*
 
 # dependencies
 /node_modules
@@ -38,3 +37,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#firebase
+.firebase
+/public/*
