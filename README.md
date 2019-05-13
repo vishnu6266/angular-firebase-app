@@ -3,21 +3,21 @@
 
 Following are the commands 
 
-`sudo npm install @angular/cli`
-`ng new my-app`
-`cd my-app/`
-`ng serve --open`
-`npm i typescript@3.1.6 --save-dev --save-exact`
-`npm audit fix --force`
-`ng serve --open`
-`npm install firebase-tools`
-`./node_modules/.bin/firebase login`
-`./node_modules/.bin/firebase init`
-`vi firebase.json` - Added site to fireebase.json file
-`vi angular.json` - Edited output path to public folder
-`./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff`
-`ng build` 
-`./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff`
+`sudo npm install @angular/cli`\s
+`ng new my-app`\s
+`cd my-app/`\s
+`ng serve --open`\s
+`npm i typescript@3.1.6 --save-dev --save-exact`\s
+`npm audit fix --force`\s
+`ng serve --open`\s
+`npm install firebase-tools`\s
+`./node_modules/.bin/firebase login`\s
+`./node_modules/.bin/firebase init`\s
+`vi firebase.json` - Added site to fireebase.json file\s
+`vi angular.json` - Edited output path to public folder\s
+`./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff`\s
+`ng build` \s
+`./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff`\s
 
 
 # Firebase 
