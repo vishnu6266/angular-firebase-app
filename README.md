@@ -1,4 +1,40 @@
-# MyApp
+
+# Getting Started
+
+sudo npm install @angular/cli
+ng new my-app
+cd my-app/
+ng serve --open
+npm i typescript@3.1.6 --save-dev --save-exact
+npm audit fix --force
+ng serve --open
+npm install firebase-tools
+./node_modules/.bin/firebase login
+./node_modules/.bin/firebase init
+vi firebase.json - Added site to fireebase.json file
+vi angular.json - Edited output path to public folder
+./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff
+ng build 
+./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff
+
+# Firebase 
+
+## Firebase Web setup
+
+https://firebase.google.com/docs/web/setup
+
+## Firebase CLI
+
+https://firebase.google.com/docs/cli
+
+## Firebase Project
+
+https://firebase.google.com/docs/projects/learn-more
+
+https://firebase.google.com/docs/projects/learn-more#best-practices
+
+
+# Angular - My App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
