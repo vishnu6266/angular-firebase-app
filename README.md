@@ -1,6 +1,7 @@
 
 # Getting Started
 
+` 
 sudo npm install @angular/cli
 ng new my-app
 cd my-app/
@@ -16,6 +17,7 @@ vi angular.json - Edited output path to public folder
 ./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff
 ng build 
 ./node_modules/.bin/firebase deploy --only hosting:mytestproject-fcfff
+`
 
 # Firebase 
 
